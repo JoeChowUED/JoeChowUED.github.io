@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0a7c299-ee6a-4e01-a9b2-ec79ca41f6f0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/functions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/garden.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery-1.10.2.min.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
@@ -42,8 +39,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="826">
-              <caret line="110" column="7" selection-start-line="110" selection-start-column="7" selection-end-line="110" selection-end-column="7" />
+            <state relative-caret-position="301">
+              <caret line="74" column="15" selection-start-line="74" selection-start-column="15" selection-end-line="74" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -75,8 +72,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="710" />
-    <option name="y" value="214" />
+    <option name="x" value="691" />
+    <option name="y" value="23" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -228,18 +225,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1516090439944</updated>
-      <workItem from="1516090441302" duration="277000" />
+      <workItem from="1516090441302" duration="1119000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="277000" />
+    <option name="totallyTimeSpent" value="1119000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="710" y="214" width="1400" height="1000" extended-state="0" />
-    <editor active="true" />
+    <frame x="691" y="23" width="1400" height="1000" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24945612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24945612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -299,8 +296,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="826">
-          <caret line="110" column="7" selection-start-line="110" selection-start-column="7" selection-end-line="110" selection-end-column="7" />
+        <state relative-caret-position="301">
+          <caret line="74" column="15" selection-start-line="74" selection-start-column="15" selection-end-line="74" selection-end-column="15" />
           <folding />
         </state>
       </provider>
