@@ -2,6 +2,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!--    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">-->
     <title>Our Love Story</title>
 
     <style type="text/css">
@@ -101,6 +103,26 @@
         $("#code").typewriter();
     }
 </script>
+<script type="text/javascript">
 
+    var isPc = (function () {
+        var userAgentInfo = navigator.userAgent;
+        var Agents = ["Android", "iPhone",
+            "SymbianOS", "Windows Phone",
+            "iPad", "iPod"];
+        var flag = true;
+        for (var v = 0; v < Agents.length; v++) {
+            if (userAgentInfo.indexOf(Agents[v]) > 0) {
+                flag = false;
+                break;
+            }
+        }
+        return flag;
+    })();
+    if(!isPc){
+        document.querySelector('#code').style.fontSize = '24px';
+    }
+    console.log(isPc)
+</script>
 </body>
 </html>
